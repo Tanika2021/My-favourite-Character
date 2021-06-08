@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background: background: rgb(158,50,157);
+background: linear-gradient(0deg, rgba(158,50,157,1) 0%, rgba(244,9,215,1) 35%, rgba(235,4,117,1) 93%);  
+    
+}
+#sec1{
+    text-align: center;
+    display: table-cell;
+}
+#sec2{
+    text-align: center;
+    display: table-cell;
+      
+}
+p{
+ font-size: 30px;
+    font-family: cursive
+}
+
+#h1{
+    font-size: 40px;
+    font-family: arial;
+}
